@@ -1,3 +1,9 @@
+App for show comments, allows to add new and delete existing ones. In addition, it allows to rate comments.
+
+Technology nad solutions: 
+* React
+* Redux
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
